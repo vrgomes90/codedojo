@@ -1,0 +1,11 @@
+{
+  "automationUser": {
+    "name": "Michel Augusto",
+    "cellphone": "41999998888",
+    "email": "teste.automacao@madeiramadeira.com.br",
+    "password": "123456Qa",
+    "cep": "81750-090",
+    "address":"Rua Cascavel",
+    "numberAddress":"2886"
+  }
+}
